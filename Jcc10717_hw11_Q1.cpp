@@ -3,6 +3,10 @@
 using namespace std;
 
 
+
+//Testing if this pulls in
+int testInt;
+
 void printTriangle(int n);
 void printOpositeTriangles(int n);
 void printRuler(int n);
@@ -24,8 +28,6 @@ int main()
 	printRuler(5);
 
 }
-
-
 
 
 
